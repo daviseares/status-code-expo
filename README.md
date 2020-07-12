@@ -6,8 +6,6 @@
   <a href="https://github.com/daviseares/status-code/commits/master">
     <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/daviseares/status-code">
   </a>
-
-  <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
   
   <img src="https://img.shields.io/static/v1?label=PRs&message=welcome&color=7159c1&labelColor=000000" alt="PRs welcome!" />
 
